@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 #### A third year Software Engineering student at Universiti Kebangsaan Malaysia (UKM)
 
-🌱 I’m currently learning Laravel framework for my Final Year Project
+🌱 Currently using Laravel framework for my Final Year Project
 <!--
 - 🌱 I’m currently learning ...
 - 📫 Feel free to reach me at https://www.linkedin.com/in/fareena-firdaus/ 
